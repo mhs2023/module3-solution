@@ -1,0 +1,13 @@
+nav {
+    background-color:  gray;
+}
+
+.bg-color {
+    background-color: gray;
+}
+
+li a:hover {
+    background-color: #FDBF60;
+  }
+
+
